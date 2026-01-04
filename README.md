@@ -10,7 +10,7 @@
 
 [Chatterbox](https://github.com/resemble-ai/chatterbox)는 제로샷 음성 복제, 감정 태그 지원, 다국어 TTS 기능을 제공하는 최첨단 AI 음성 생성 모델입니다.
 
-[블로그](https://fornewchallenge.tistory.com/) • [데모](https://huggingface.co/spaces/ResembleAI/chatterbox-turbo-demo) • [Star](https://github.com/jmpark333/Chatterbox/stargazers)
+[블로그](https://fornewchallenge.tistory.com/entry/%F0%9F%8E%99%EF%B8%8F%F0%9F%8E%AD%F0%9F%A4%96Chatterbox-%EA%B0%90%EC%A0%95-%ED%91%9C%ED%98%84%EA%B3%BC-%EC%9D%8C%EC%84%B1-%EB%B3%B5%EC%A0%9C%EA%B0%80-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%B5%9C%EC%8B%A0-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-AI-%EC%9D%8C%EC%84%B1-%EC%83%9D%EC%84%B1-%EB%AA%A8%EB%8D%B8) • [데모](https://huggingface.co/spaces/ResembleAI/chatterbox-turbo-demo) • [Star](https://github.com/jmpark333/Chatterbox/stargazers)
 
 </div>
 
